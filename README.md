@@ -1,4 +1,4 @@
-# Simple Todo List
+# Duck Todo
 
 [https://duck-todo.netlify.app/](https://duck-todo.netlify.app/)
 
